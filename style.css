@@ -245,6 +245,10 @@ aside {
     font-weight: bold;
 }
 
+#shoppingCartContainer {
+    width: 100%;
+}
+
 .shopping-cart {
     display: grid;
     grid-template-columns: auto 1fr auto auto;
